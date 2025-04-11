@@ -1,0 +1,27 @@
+.calendar {
+    width: 100%;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+    margin-top: 30px;
+    display: flex;
+  }
+  
+  .calendar th, .calendar td {
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .calendar table {
+    border-collapse: collapse;
+  }
+  
+  .curr-day {
+    border: 3px solid white; 
+    font-weight: bold;
+  }
+
+.weather-app p {
+    color: white;
+    font-size: 20px;
+}
+  

@@ -1,0 +1,28 @@
+
+.current-weather {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+.info {
+font-size: 20px;
+color: #FFF;
+}
+
+.forecast {
+font-size: 40px;
+margin: 0px
+}
+
+.temp {
+margin: 10px;
+font-size: 65px;
+height: 100px;
+font-weight: 100;
+}
+
+.current-weather-image {
+    border-radius: 10px;
+  }
+  

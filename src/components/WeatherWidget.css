@@ -1,0 +1,25 @@
+.scroll-container {
+    display: inline-flex;
+  }
+
+.weekly-forecast {
+margin-top: 20px;
+max-height: 300px;
+overflow-y: auto;
+scroll-behavior: smooth;
+}
+
+.hourly-forecast {
+    overflow-x: auto;
+    white-space: nowrap;
+    scroll-behavior: smooth;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+}
+
+.hour {
+    width: 90px;
+    display: inline-block;
+  }
