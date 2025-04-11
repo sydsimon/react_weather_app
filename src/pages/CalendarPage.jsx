@@ -8,7 +8,7 @@ const CalendarPage = ( {CurrentDay} ) => {
         <div class="weather-app">
             <div class="current-weather">
                 <h2> Philadelphia, PA</h2>
-                <p>Wednesday, January 26th</p>
+                <a href="/">Wednesday, January 26th</a>
             </div>
 
             <div class="calendar">

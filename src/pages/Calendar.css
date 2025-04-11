@@ -20,7 +20,7 @@
     font-weight: bold;
   }
 
-.weather-app p {
+.weather-app a {
     color: white;
     font-size: 20px;
 }
